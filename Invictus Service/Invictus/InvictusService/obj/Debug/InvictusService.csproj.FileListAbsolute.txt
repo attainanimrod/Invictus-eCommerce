@@ -1,0 +1,72 @@
+T:\New folder\InvictusService\obj\Debug\InvictusService.csproj.AssemblyReference.cache
+T:\New folder\InvictusService\obj\Debug\InvictusService.csproj.CoreCompileInputs.cache
+C:\Users\vincd\OneDrive\Documents\Invictus\InvictusService\bin\InvictusService.dll.config
+C:\Users\vincd\OneDrive\Documents\Invictus\InvictusService\bin\InvictusService.dll
+C:\Users\vincd\OneDrive\Documents\Invictus\InvictusService\bin\InvictusService.pdb
+C:\Users\vincd\OneDrive\Documents\Invictus\InvictusService\obj\Debug\InvictusService.csproj.AssemblyReference.cache
+C:\Users\vincd\OneDrive\Documents\Invictus\InvictusService\obj\Debug\InvictusService.csproj.CoreCompileInputs.cache
+C:\Users\vincd\OneDrive\Documents\Invictus\InvictusService\obj\Debug\InvictusService.dll
+C:\Users\vincd\OneDrive\Documents\Invictus\InvictusService\obj\Debug\InvictusService.pdb
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\Invictus\InvictusService\bin\InvictusService.dll.config
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\Invictus\InvictusService\bin\InvictusService.dll
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\Invictus\InvictusService\bin\InvictusService.pdb
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\Invictus\InvictusService\obj\Debug\InvictusService.csproj.AssemblyReference.cache
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\Invictus\InvictusService\obj\Debug\InvictusService.csproj.CoreCompileInputs.cache
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\Invictus\InvictusService\obj\Debug\InvictusService.dll
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\Invictus\InvictusService\obj\Debug\InvictusService.pdb
+C:\Users\vincd\Downloads\Invictus\Invictus\InvictusService\bin\InvictusService.dll.config
+C:\Users\vincd\Downloads\Invictus\Invictus\InvictusService\bin\InvictusService.dll
+C:\Users\vincd\Downloads\Invictus\Invictus\InvictusService\bin\InvictusService.pdb
+C:\Users\vincd\Downloads\Invictus\Invictus\InvictusService\obj\Debug\InvictusService.csproj.AssemblyReference.cache
+C:\Users\vincd\Downloads\Invictus\Invictus\InvictusService\obj\Debug\InvictusService.csproj.CoreCompileInputs.cache
+C:\Users\vincd\Downloads\Invictus\Invictus\InvictusService\obj\Debug\InvictusService.dll
+C:\Users\vincd\Downloads\Invictus\Invictus\InvictusService\obj\Debug\InvictusService.pdb
+C:\Users\vincd\Downloads\IFM2B_GROUP_PROJECT (1)\Invictus\Invictus\InvictusService\bin\InvictusService.dll.config
+C:\Users\vincd\Downloads\IFM2B_GROUP_PROJECT (1)\Invictus\Invictus\InvictusService\bin\InvictusService.dll
+C:\Users\vincd\Downloads\IFM2B_GROUP_PROJECT (1)\Invictus\Invictus\InvictusService\bin\InvictusService.pdb
+C:\Users\vincd\Downloads\IFM2B_GROUP_PROJECT (1)\Invictus\Invictus\InvictusService\obj\Debug\InvictusService.csproj.AssemblyReference.cache
+C:\Users\vincd\Downloads\IFM2B_GROUP_PROJECT (1)\Invictus\Invictus\InvictusService\obj\Debug\InvictusService.csproj.CoreCompileInputs.cache
+C:\Users\vincd\Downloads\IFM2B_GROUP_PROJECT (1)\Invictus\Invictus\InvictusService\obj\Debug\InvictusService.dll
+C:\Users\vincd\Downloads\IFM2B_GROUP_PROJECT (1)\Invictus\Invictus\InvictusService\obj\Debug\InvictusService.pdb
+C:\Users\vincd\OneDrive\Desktop\IFM2B_GROUP_PROJECT\Invictus Service\Invictus\InvictusService\bin\InvictusService.dll.config
+C:\Users\vincd\OneDrive\Desktop\IFM2B_GROUP_PROJECT\Invictus Service\Invictus\InvictusService\bin\InvictusService.dll
+C:\Users\vincd\OneDrive\Desktop\IFM2B_GROUP_PROJECT\Invictus Service\Invictus\InvictusService\bin\InvictusService.pdb
+C:\Users\vincd\OneDrive\Desktop\IFM2B_GROUP_PROJECT\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.csproj.AssemblyReference.cache
+C:\Users\vincd\OneDrive\Desktop\IFM2B_GROUP_PROJECT\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.csproj.CoreCompileInputs.cache
+C:\Users\vincd\OneDrive\Desktop\IFM2B_GROUP_PROJECT\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.dll
+C:\Users\vincd\OneDrive\Desktop\IFM2B_GROUP_PROJECT\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.pdb
+C:\Users\vincd\OneDrive\Documents\IFM2B_GROUP_PROJECT\Invictus Service\Invictus\InvictusService\bin\InvictusService.dll.config
+C:\Users\vincd\OneDrive\Documents\IFM2B_GROUP_PROJECT\Invictus Service\Invictus\InvictusService\bin\InvictusService.dll
+C:\Users\vincd\OneDrive\Documents\IFM2B_GROUP_PROJECT\Invictus Service\Invictus\InvictusService\bin\InvictusService.pdb
+C:\Users\vincd\OneDrive\Documents\IFM2B_GROUP_PROJECT\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.csproj.AssemblyReference.cache
+C:\Users\vincd\OneDrive\Documents\IFM2B_GROUP_PROJECT\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.csproj.CoreCompileInputs.cache
+C:\Users\vincd\OneDrive\Documents\IFM2B_GROUP_PROJECT\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.dll
+C:\Users\vincd\OneDrive\Documents\IFM2B_GROUP_PROJECT\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.pdb
+C:\Users\vincd\OneDrive\Documents\INVICTUS WEB\Invictus Service\Invictus\InvictusService\bin\InvictusService.dll.config
+C:\Users\vincd\OneDrive\Documents\INVICTUS WEB\Invictus Service\Invictus\InvictusService\bin\InvictusService.dll
+C:\Users\vincd\OneDrive\Documents\INVICTUS WEB\Invictus Service\Invictus\InvictusService\bin\InvictusService.pdb
+C:\Users\vincd\OneDrive\Documents\INVICTUS WEB\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.csproj.AssemblyReference.cache
+C:\Users\vincd\OneDrive\Documents\INVICTUS WEB\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.csproj.CoreCompileInputs.cache
+C:\Users\vincd\OneDrive\Documents\INVICTUS WEB\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.dll
+C:\Users\vincd\OneDrive\Documents\INVICTUS WEB\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.pdb
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\INVICTUS WEB\Invictus Service\Invictus\InvictusService\bin\InvictusService.dll.config
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\INVICTUS WEB\Invictus Service\Invictus\InvictusService\bin\InvictusService.dll
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\INVICTUS WEB\Invictus Service\Invictus\InvictusService\bin\InvictusService.pdb
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\INVICTUS WEB\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.csproj.AssemblyReference.cache
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\INVICTUS WEB\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.csproj.CoreCompileInputs.cache
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\INVICTUS WEB\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.dll
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\INVICTUS WEB\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.pdb
+C:\Users\vincd\OneDrive\Documents\INVICTUS WEB\INVICTUS WEB\Invictus Service\Invictus\InvictusService\bin\InvictusService.dll.config
+C:\Users\vincd\OneDrive\Documents\INVICTUS WEB\INVICTUS WEB\Invictus Service\Invictus\InvictusService\bin\InvictusService.dll
+C:\Users\vincd\OneDrive\Documents\INVICTUS WEB\INVICTUS WEB\Invictus Service\Invictus\InvictusService\bin\InvictusService.pdb
+C:\Users\vincd\OneDrive\Documents\INVICTUS WEB\INVICTUS WEB\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.csproj.AssemblyReference.cache
+C:\Users\vincd\OneDrive\Documents\INVICTUS WEB\INVICTUS WEB\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.csproj.CoreCompileInputs.cache
+C:\Users\vincd\OneDrive\Documents\INVICTUS WEB\INVICTUS WEB\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.dll
+C:\Users\vincd\OneDrive\Documents\INVICTUS WEB\INVICTUS WEB\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.pdb
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\INVICTUS WEB\INVICTUS WEB\Invictus Service\Invictus\InvictusService\bin\InvictusService.dll.config
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\INVICTUS WEB\INVICTUS WEB\Invictus Service\Invictus\InvictusService\bin\InvictusService.dll
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\INVICTUS WEB\INVICTUS WEB\Invictus Service\Invictus\InvictusService\bin\InvictusService.pdb
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\INVICTUS WEB\INVICTUS WEB\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.csproj.AssemblyReference.cache
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\INVICTUS WEB\INVICTUS WEB\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.csproj.CoreCompileInputs.cache
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\INVICTUS WEB\INVICTUS WEB\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.dll
+C:\Users\snmah\OneDrive\Documents\Scond Year\Second Semester\IFM2B\INVICTUS WEB\INVICTUS WEB\Invictus Service\Invictus\InvictusService\obj\Debug\InvictusService.pdb

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 12.875, 8.5" name="InvictusDataClasses">
+  <DataContextMoniker Name="/InvictusDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="5d57bef6-497b-4d4d-8297-bc0a410a7bc3" absoluteBounds="10.25, 0.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/InvictusDataClassesDataContext/UserAddress" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4a561a79-2cbd-4554-bd69-3e4cff517073" absoluteBounds="10.265, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a62962dc-0445-4664-adb8-88704031860f" absoluteBounds="10.625, 3.625, 2, 1.9631982421875">
+      <DataClassMoniker Name="/InvictusDataClassesDataContext/UserPayment" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e4c1acc4-70fe-4962-8ad2-3b6f266f2b86" absoluteBounds="10.64, 4.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b413b90b-a5f2-42b7-812a-7ab8be2df89b" absoluteBounds="3.25, 1, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/InvictusDataClassesDataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d8c8c04e-4243-45db-b8ba-746038e0287a" absoluteBounds="3.2649999999999997, 1.46, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e8351595-15a1-432a-bd27-07f173d48442" absoluteBounds="5.75, 1.875, 2, 3.1170068359375">
+      <DataClassMoniker Name="/InvictusDataClassesDataContext/SystemUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eb2d6762-ff8c-4598-b878-a2bf5f3aa2c5" absoluteBounds="5.765, 2.335, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(7.75 : 2.39024983723958); (10.25 : 2.39024983723958)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/InvictusDataClassesDataContext/SystemUser/SystemUser_UserAddress" />
+      <nodes>
+        <classShapeMoniker Id="e8351595-15a1-432a-bd27-07f173d48442" />
+        <classShapeMoniker Id="5d57bef6-497b-4d4d-8297-bc0a410a7bc3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.75 : 4.30850341796875); (10.625 : 4.30850341796875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/InvictusDataClassesDataContext/SystemUser/SystemUser_UserPayment" />
+      <nodes>
+        <classShapeMoniker Id="e8351595-15a1-432a-bd27-07f173d48442" />
+        <classShapeMoniker Id="a62962dc-0445-4664-adb8-88704031860f" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="37c476b5-f2ae-4edf-b7c0-5a4bd68f391d" absoluteBounds="2.75, 4.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/InvictusDataClassesDataContext/Cart" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dd784375-5e46-49cd-b765-2c175444a0fa" absoluteBounds="2.765, 5.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4 : 4.30930826822917); (4 : 4.75)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/InvictusDataClassesDataContext/Product/Product_Cart" />
+      <nodes>
+        <classShapeMoniker Id="b413b90b-a5f2-42b7-812a-7ab8be2df89b" />
+        <classShapeMoniker Id="37c476b5-f2ae-4edf-b7c0-5a4bd68f391d" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
